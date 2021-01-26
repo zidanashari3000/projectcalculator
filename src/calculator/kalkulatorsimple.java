@@ -15,6 +15,7 @@ public class kalkulatorsimple {
 
     public static void main(String[] args) {
         int num1, num2;
+        System.out.println("test");
         System.out.println("Enter your selection: 1 for Addition, 2 for substraction , 3 for Multiplication , 4 for division , 5 for Tangent , 6 for Cosin , 7 for CubeRoot , 8 for Sine , 9 for Square and 10 for Squareroot:");
         Scanner inp = new Scanner(System.in);
         int choose;
